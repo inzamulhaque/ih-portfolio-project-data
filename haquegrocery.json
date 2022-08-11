@@ -1,0 +1,25 @@
+{
+  "name": "Haque Grocery",
+  "image": "haquegrocerys.png",
+  "decs": "This is warehouse management full-stack website. This website using ReactJS, tailwindcss, firebase, react-router, nodeJS, expressJS, mongodb etc. The work of this website is warehouse management, list of items, Supplier Name, Orders Management, And Stock Management.",
+  "features": [
+    "Products Management",
+    "Orders Management",
+    "Stock Management",
+    "User Authorization",
+    "Dark Mode"
+  ],
+  "technology": {
+    "frontend": [
+      "React Js",
+      "JavaScript (ES6)",
+      "Tailwind CSS",
+      "React Router"
+    ],
+    "backend": ["NodeJS", "ExpressJS"],
+    "database": "MongoDB"
+  },
+  "link": "https://haque-grocerys.firebaseapp.com/",
+  "client": "https://github.com/inzamulhaque/warehouse-management-client-side",
+  "server": "https://github.com/inzamulhaque/warehouse-management-server-side"
+}

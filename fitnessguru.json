@@ -1,0 +1,18 @@
+{
+  "name": "Fitness Guru",
+  "image": "fitness-guru.png",
+  "features": ["authentication system"],
+  "technology": {
+    "frontend": [
+      "React Js",
+      "JavaScript (ES6)",
+      "Tailwind CSS",
+      "React Router",
+      "firebase",
+      "swiper",
+      "react-toastify"
+    ]
+  },
+  "link": "https://fitness-guru-assignment-10.web.app/",
+  "client": "https://github.com/inzamulhaque/Fitness-Guru"
+}

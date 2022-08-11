@@ -1,0 +1,26 @@
+{
+  "name": "IH Electronics",
+  "image": "ih-electronics.png",
+  "decs": "This is Electronics Tools Manufacturer Website.",
+  "features": [
+    "Dashboard for user",
+    "Dashboard for admin",
+    "Firebase authentication",
+    "Buy Tools",
+    "Payment"
+  ],
+  "technology": {
+    "frontend": [
+      "React Js",
+      "JavaScript (ES6)",
+      "Tailwind CSS",
+      "React Router"
+    ],
+    "backend": ["NodeJS", "ExpressJS"],
+    "database": "MongoDB"
+  },
+  "note": "if you want visit my website as a admin please signin with email: admin@phero.com and password: 1234Aa",
+  "link": "https://ih-electronics-pheroassignment.web.app/",
+  "client": "https://github.com/inzamulhaque/manufacturer-website-client-side",
+  "server": "https://github.com/inzamulhaque/manufacturer-website-server-side"
+}

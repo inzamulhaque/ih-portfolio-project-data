@@ -1,0 +1,14 @@
+{
+  "name": "Budget Laptop",
+  "image": "BudgetLaptop.png",
+  "features": [
+    "Budget Laptop",
+    "See Client Reviews",
+    "See Investment And Revenue In Charts"
+  ],
+  "technology": {
+    "frontend": ["React Js", "JavaScript (ES6)", "react-bootstrap", "recharts"]
+  },
+  "link": "https://assignment-9-ih-phero.netlify.app/",
+  "client": "https://github.com/inzamulhaque/laptop-analysis-website"
+}
